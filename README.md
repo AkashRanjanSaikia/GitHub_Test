@@ -5,3 +5,4 @@ and to crete a custom ci/cd server
 rendom line top commit
 trying with emoji
 new line added
+running command in terminal
